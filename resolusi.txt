@@ -2,3 +2,5 @@ Resolusi di tahun 2022
 - Menyelesaikan materi JavaScript
 - Membuat banyak project dengan HTML, CSS dan JavaScript
 - Memiliki sebuah web portfolio
+- Bisa menjadi juara kelas di kelas 11 nanti
+- Melanjutkan belajar back-end development
