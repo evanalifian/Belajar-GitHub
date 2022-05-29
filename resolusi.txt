@@ -3,4 +3,4 @@ Resolusi di tahun 2022
 - Membuat banyak project dengan HTML, CSS dan JavaScript
 - Memiliki sebuah web portfolio
 - Bisa menjadi juara kelas di kelas 11 nanti
-- Melanjutkan belajar back-end development
+- Membuat project musik
